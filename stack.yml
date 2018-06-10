@@ -12,4 +12,4 @@ functions:
       slack_token: "cloudevent-slack-token"
       slack_room: "cloudevent-slack-room"
     secrets:
-    - johnmccabe-cloudevents-slack-demo
+    - cloudevents-slack-demo
